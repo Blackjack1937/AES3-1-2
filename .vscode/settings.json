@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "aes-128_enc.h": "c",
+        "unistd.h": "c"
+    }
+}
